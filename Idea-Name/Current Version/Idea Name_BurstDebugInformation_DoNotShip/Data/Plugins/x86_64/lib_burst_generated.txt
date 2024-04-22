@@ -54,7 +54,6 @@ Library: C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\BurstOutput\Dat
 --linker-options=PdbAltPath="Idea Name_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Library\Burst
 --output=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -146,7 +145,6 @@ Library: C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\BurstOutput\Dat
 --linker-options=PdbAltPath="Idea Name_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\Burst
---debug=LineOnly
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Library\Burst
 --output=C:\Users\dwise\OneDrive\Documents\GitHub\Idea-Name\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
